@@ -71,7 +71,7 @@ This is a simple authentication application built with **React**, **Firebase**, 
 
 Make sure to add your Firebase project configuration inside the firebaseConfig.js file:
 
-    ```bash
+   ```bash
     // firebaseConfig.js
     export const firebaseConfig = {
     apiKey: "YOUR_API_KEY",
@@ -81,9 +81,9 @@ Make sure to add your Firebase project configuration inside the firebaseConfig.j
     messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
     appId: "YOUR_APP_ID"
     };
-    ```
+   ```
 
-## 🔄Deployment
+## 🔄 Deployment
 
 The app is currently deployed using Render. To deploy your own version, follow these steps:
 
